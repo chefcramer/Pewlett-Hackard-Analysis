@@ -42,6 +42,8 @@ This analysis is to determine the number of retiring emplyees by title, and iden
 - The use of a mentorship progam has many advantages. The mentor is nearing retirement age, but isnt there yet. More than likely indicating that they have a large amout of experience to pass on to younger employees, to prepare them to take the place of the large number of retiring employees.
 
 ## Summary
-- There is a VERY large number of employees that are going to be retiring, indeed a "silver tsunami". There are 90,398 total employees retiring, with 57,668 of them being in a senior position, and 2 of them being managers of entire departments.
+- There is a VERY large number of employees that are going to be retiring, indeed a "silver tsunami". There are 90,398 total employees retiring, with 57,668 of them being in a senior position, and 2 of them being managers of entire departments. This represents a looming potential crisis at Pewlett-Hackard.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  ![mentor_count](https://github.com/chefcramer/Pewlett-Hackard-Analysis/blob/main/write%20up%20resources/mentor%20count.PNG)
+  
+- It seems that there are simply not enough potential mentors to bring the "next generation" of employees up to the standards of the retiring employees. If the mentor employees are tasked with EXCLUSIVLY training the new employees, and taking a rather large number under their wing (just over 70 employees per mentor in the case if senior staff) Pewlett_Hackard MIGHT be able to ride the tsunami.
