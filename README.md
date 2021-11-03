@@ -6,7 +6,8 @@ This analysis is to determine the number of retiring emplyees by title, and iden
 
 ## Results
 ### Analysis 1 : Determining the number of retiring employees by their title.
--
+
+- Using the above section of 
 Deliverable 1 Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions—you’ll need to use the DISTINCT ON statement to create a table that contains the most recent title of each employee. Then, use the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
 
 deliverable 2 Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
